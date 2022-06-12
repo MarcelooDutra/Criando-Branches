@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+header{
+background-color: aliceblue;
+color: black;
+}
+
+section{
+background-color: thistle;
+color: aquamarine;
+}
+
+footer{
+background-color: cadetblue;
+color: blue;
+}
